@@ -1,4 +1,4 @@
-<b> Companies I have helped Secure </b>
+<span style="font-size: 20px; font-weight: bold;">Companies I have helped Secure</span>
 <p>
   <img src="https://raw.githubusercontent.com/evilgensec/evilgensec/refs/heads/main/images/Microsoft.png" alt="HTML" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/evilgensec/evilgensec/refs/heads/main/images/Nasa.svg" alt="HTML" width="50" height=45"/>
