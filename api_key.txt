@@ -1,3 +1,0 @@
-Fake API KEY for testing purposes :)
-API_KEY: a8a37efd-20bf-4532-8a48-dcb7bc83dc29
-KEY: 3795c664-61da-446b-8455-20d1c8097001
