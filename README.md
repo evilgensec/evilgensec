@@ -7,6 +7,6 @@
   <img src="https://raw.githubusercontent.com/evilgensec/evilgensec/refs/heads/main/images/Firewalla.png" alt="HTML" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/evilgensec/evilgensec/refs/heads/main/images/University_of_Texas.svg" alt="HTML" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/evilgensec/evilgensec/refs/heads/main/images/Sonar.jpg" alt="HTML" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/evilgensec/evilgensec/refs/heads/main/images/Sony.gif" alt="HTML" width="50" height="70"/>
-  <img src="https://raw.githubusercontent.com/evilgensec/evilgensec/refs/heads/main/images/Amsterdam.png" alt="HTML" width="50" height="70"/>
+  <img src="https://raw.githubusercontent.com/evilgensec/evilgensec/refs/heads/main/images/Sony.gif" alt="HTML" width="50" height="1000"/>
+  <img src="https://raw.githubusercontent.com/evilgensec/evilgensec/refs/heads/main/images/Amsterdam.png" alt="HTML" width="50" height="1000"/>
 </p>
