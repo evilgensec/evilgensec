@@ -10,5 +10,5 @@
   <img src="https://raw.githubusercontent.com/evilgensec/evilgensec/refs/heads/main/images/Sony.png" alt="HTML" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/evilgensec/evilgensec/refs/heads/main/images/Amsterdam.png" alt="HTML" width="80" height="1500"/>
   <img src="https://raw.githubusercontent.com/evilgensec/evilgensec/refs/heads/main/images/United_Nations.jpg" alt="HTML" width="50" height="1000"/>
-  <img src="https://raw.githubusercontent.com/evilgensec/evilgensec/refs/heads/main/images/ESET.jpg" alt="HTML" width="80" height="1500"/>
+  <img src="https://raw.githubusercontent.com/evilgensec/evilgensec/refs/heads/main/images/ESET.jpg" alt="HTML" width="80" height="1250"/>
 </p>
