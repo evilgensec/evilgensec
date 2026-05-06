@@ -1,14 +1,14 @@
-<p>
-  <img src="https://raw.githubusercontent.com/evilgensec/evilgensec/refs/heads/main/images/evilgensec-space-shooter.gif" alt="HTML"><br>
-  <img src="https://raw.githubusercontent.com/evilgensec/evilgensec/refs/heads/main/images/Microsoft.png" alt="HTML" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/evilgensec/evilgensec/refs/heads/main/images/Nasa.svg" alt="HTML" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/evilgensec/evilgensec/refs/heads/main/images/Zitadel.jpg" alt="HTML" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/evilgensec/evilgensec/refs/heads/main/images/Airlock.avif" alt="HTML" width="50" height="50"/>  
-  <img src="https://raw.githubusercontent.com/evilgensec/evilgensec/refs/heads/main/images/Firewalla.png" alt="HTML" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/evilgensec/evilgensec/refs/heads/main/images/University_of_Texas.svg" alt="HTML" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/evilgensec/evilgensec/refs/heads/main/images/Sonar.jpg" alt="HTML" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/evilgensec/evilgensec/refs/heads/main/images/Sony.png" alt="HTML" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/evilgensec/evilgensec/refs/heads/main/images/Amsterdam.png" alt="HTML" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/evilgensec/evilgensec/refs/heads/main/images/United_Nations.jpg" alt="HTML" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/evilgensec/evilgensec/refs/heads/main/images/ESET.jpg" alt="HTML" width="50" height="50"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/evilgensec/evilgensec/refs/heads/main/images/evilgensec-space-shooter.gif" />
+  <img src="https://raw.githubusercontent.com/evilgensec/evilgensec/refs/heads/main/images/Microsoft.png" width="50" />
+  <img src="https://raw.githubusercontent.com/evilgensec/evilgensec/refs/heads/main/images/Nasa.svg" width="50" />
+  <img src="https://raw.githubusercontent.com/evilgensec/evilgensec/refs/heads/main/images/Zitadel.jpg" width="50" />
+  <img src="https://raw.githubusercontent.com/evilgensec/evilgensec/refs/heads/main/images/Airlock.avif" width="50" />
+  <img src="https://raw.githubusercontent.com/evilgensec/evilgensec/refs/heads/main/images/Firewalla.png" width="50" />
+  <img src="https://raw.githubusercontent.com/evilgensec/evilgensec/refs/heads/main/images/University_of_Texas.svg" width="50" />
+  <img src="https://raw.githubusercontent.com/evilgensec/evilgensec/refs/heads/main/images/Sonar.jpg" width="50" />
+  <img src="https://raw.githubusercontent.com/evilgensec/evilgensec/refs/heads/main/images/Sony.png" width="50" />
+  <img src="https://raw.githubusercontent.com/evilgensec/evilgensec/refs/heads/main/images/Amsterdam.png" width="50" />
+  <img src="https://raw.githubusercontent.com/evilgensec/evilgensec/refs/heads/main/images/United_Nations.jpg" width="50" />
+  <img src="https://raw.githubusercontent.com/evilgensec/evilgensec/refs/heads/main/images/ESET.jpg" width="50" />
 </p>
