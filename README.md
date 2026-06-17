@@ -20,12 +20,7 @@
 
 ### `whoami`
 
-Security researcher focused on **finding and responsibly disclosing real vulnerabilities** in production software and large open-source projects. In practice that means reading C/C++/Go/Java/Python source, building reproducible proof-of-concepts, and shipping the fix upstream alongside the report.
-
-- 🔬 **Memory safety** — OOB read/write, integer truncation, and parser bugs in C/C++ (fuzzing + manual audit)
-- 🛡️ **Application & web security** — SSRF, auth bypass, IDOR, injection, supply-chain / CI-CD
-- 🤝 **Fix-first disclosure** — most findings ship with a tested upstream pull request, not just a report
-- 🧪 Building OSS security-audit tooling — LangGraph + LLM multi-agent code review
+Security researcher focused on **finding and responsibly disclosing real vulnerabilities**
 
 ### Acknowledged by
 
