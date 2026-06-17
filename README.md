@@ -20,7 +20,7 @@
 
 ### `whoami`
 
-Security researcher focused on **finding and responsibly disclosing real vulnerabilities**
+Security researcher focused on **finding and responsibly disclosing  vulnerabilities**.
 
 ### Acknowledged by
 
