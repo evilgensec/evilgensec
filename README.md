@@ -41,7 +41,7 @@ Security researcher focused on **finding and responsibly disclosing  vulnerabili
   &nbsp;
   <img src="https://raw.githubusercontent.com/evilgensec/evilgensec/refs/heads/main/images/Sony.png" width="48" title="Sony" />
   &nbsp;
-  <img src="https://raw.githubusercontent.com/evilgensec/evilgensec/refs/heads/main/images/Amsterdam.png" height= "200" width="48" title="Amsterdam" />
+  <img src="https://raw.githubusercontent.com/evilgensec/evilgensec/refs/heads/main/images/Amsterdam.png" height= "50" width="48" title="Amsterdam" />
   &nbsp;
   <img src="https://raw.githubusercontent.com/evilgensec/evilgensec/refs/heads/main/images/United_Nations.jpg" width="48" title="United Nations" />
   &nbsp;
