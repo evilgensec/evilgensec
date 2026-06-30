@@ -45,7 +45,7 @@ Security researcher focused on **finding and responsibly disclosing  vulnerabili
   &nbsp;
   <img src="https://raw.githubusercontent.com/evilgensec/evilgensec/refs/heads/main/images/United_Nations.jpg" width="48" title="United Nations" />
   &nbsp;
-  <img src="https://raw.githubusercontent.com/evilgensec/evilgensec/refs/heads/main/images/ESET.jpg" width="48" title="ESET" />
+  <img src="https://raw.githubusercontent.com/evilgensec/evilgensec/refs/heads/main/images/ESET.jpg" height= "50 "width="48" title="ESET" />
 </p>
 
 ### Tech & Tooling
