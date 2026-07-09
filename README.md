@@ -64,16 +64,3 @@ Security researcher focused on **finding and responsibly disclosing  vulnerabili
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
 </p>
-
-### GitHub Activity
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=evilgensec&show_icons=true&hide_border=true&count_private=true&theme=dark&bg_color=00000000&icon_color=58a6ff&title_color=58a6ff&text_color=c9d1d9" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evilgensec&layout=compact&hide_border=true&theme=dark&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=evilgensec&hide_border=true&background=00000000&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" />
-</p>
-
-<p align="center"><sub>Findings are disclosed responsibly and only against authorized targets and bug bounty scopes.</sub></p>
