@@ -11,8 +11,6 @@
 <p align="center">
   <a href="https://github.com/evilgensec?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/evilgensec?label=Followers&style=for-the-badge&color=0a0a0a&labelColor=0a0a0a&logo=github" /></a>
   &nbsp;
-  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=evilgensec&style=for-the-badge&color=0a0a0a&label=Profile+Views" />
-  &nbsp;
   <a href="https://github.com/evilgensec?tab=stars"><img alt="Stars" src="https://img.shields.io/github/stars/evilgensec?label=Stars&style=for-the-badge&color=0a0a0a&labelColor=0a0a0a&logo=github" /></a>
 </p>
 
