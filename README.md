@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/evilgensec/evilgensec/refs/heads/main/images/evilgensec-space-shooter.gif" />
 </p>
 
-<h1 align="center">Security Researcher &middot; Vulnerability Hunter</h1>
+<h1 align="center">Security Researcher </h1>
 
 <p align="center">
   <em>Offensive security &nbsp;&middot;&nbsp; OSS vulnerability research &nbsp;&middot;&nbsp; Bug bounty</em>
